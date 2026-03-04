@@ -1,17 +1,17 @@
 # Vendor Evaluation Template
 
 ## Vendor Details
-- Name:
-- Service:
-- Primary Contact:
+- Name: Willie Cheatum and Howe
+- Service:Lawer
+- Primary Contact: John Goldstein
 
 ## Evaluation Criteria
-- Pricing:
-- Contract Terms:
+- Pricing: $110 per hour
+- Contract Terms: 1 year
 - Security/Compliance:
 - Support Model:
 
 ## Decision
-- Status:
+- Status: pending Mike's approval
 - Notes:
 - Next Steps:
